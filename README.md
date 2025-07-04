@@ -100,7 +100,7 @@ This project is licensed under the MIT License
 
 ## 👤 Author
 
-Developed by: abirhosenakram
+Developed by: ** abirhosenakram **   
 Pull requests, ideas, and contributions are welcome.
 
 
