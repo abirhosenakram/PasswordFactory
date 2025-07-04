@@ -1,4 +1,4 @@
-bangla <h1 align="center">🔐 PasswordFactory</h1>
+<h1 align="center">🔐 PasswordFactory</h1>
 <p align="center"><i>The ultimate wordlist generator for ethical hackers, pentesters, and security researchers.</i></p>
 
 <p align="center">
