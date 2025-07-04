@@ -32,11 +32,11 @@
 
 **Termux:**
 
-`pkg update && pkg install git python`
-`pip install tqdm`
-`git clone https://github.com/abirhosenakram/PasswordFactory`
-`cd PasswordFactory`
-`python passwordfactory.py`
+`pkg update && pkg install git python`  
+`pip install tqdm`  
+`git clone https://github.com/abirhosenakram/PasswordFactory`  
+`cd PasswordFactory`  
+`python passwordfactory.py`  
 
 **Linux:**
 
