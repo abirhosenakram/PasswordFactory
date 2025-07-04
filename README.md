@@ -40,11 +40,11 @@
 
 **Linux:**
 
-` apt update && sudo apt install git python3`
-`pip install tqdm`
+` apt update && sudo apt install git python3` 
+`pip install tqdm` 
 `git clone https://github.com/abirhosenakram/PasswordFactory`
-`cd PasswordFactory`
-`python3 passwordfactory.py`
+`cd PasswordFactory` 
+`python3 passwordfactory.py` 
 
 
 ---
